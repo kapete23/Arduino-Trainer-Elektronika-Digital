@@ -1,0 +1,250 @@
+Added Component: Designator=Anode(F_Banana)
+Add component. Clean all parameters for all variants
+Added Component: Designator=a(F_Banana)
+Add component. Clean all parameters for all variants
+Added Component: Designator=b(F_Banana)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Cathode(F_Banana)
+Add component. Clean all parameters for all variants
+Added Component: Designator=c(F_Banana)
+Add component. Clean all parameters for all variants
+Added Component: Designator=d(F_Banana)
+Add component. Clean all parameters for all variants
+Added Component: Designator=e(F_Banana)
+Add component. Clean all parameters for all variants
+Added Component: Designator=f(F_Banana)
+Add component. Clean all parameters for all variants
+Added Component: Designator=g(F_Banana)
+Add component. Clean all parameters for all variants
+Added Component: Designator=LD1(F_Banana)
+Add component. Clean all parameters for all variants
+Added Component: Designator=LD2(F_Banana)
+Add component. Clean all parameters for all variants
+Added Component: Designator=LD3(F_Banana)
+Add component. Clean all parameters for all variants
+Added Component: Designator=LD4(F_Banana)
+Add component. Clean all parameters for all variants
+Added Component: Designator=LD5(F_Banana)
+Add component. Clean all parameters for all variants
+Added Component: Designator=LD6(F_Banana)
+Add component. Clean all parameters for all variants
+Added Component: Designator=LD7(F_Banana)
+Add component. Clean all parameters for all variants
+Added Component: Designator=LD8(F_Banana)
+Add component. Clean all parameters for all variants
+Added Component: Designator=LED1(2285045)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://docs-emea.rs-online.com/webdocs/1382/0900766b813828ab.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "8.95mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "RS Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "228-5045"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED2(2285045)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://docs-emea.rs-online.com/webdocs/1382/0900766b813828ab.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "8.95mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "RS Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "228-5045"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED3(2285045)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://docs-emea.rs-online.com/webdocs/1382/0900766b813828ab.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "8.95mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "RS Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "228-5045"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED4(2285045)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://docs-emea.rs-online.com/webdocs/1382/0900766b813828ab.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "8.95mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "RS Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "228-5045"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED5(2285045)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://docs-emea.rs-online.com/webdocs/1382/0900766b813828ab.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "8.95mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "RS Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "228-5045"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED6(2285045)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://docs-emea.rs-online.com/webdocs/1382/0900766b813828ab.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "8.95mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "RS Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "228-5045"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED7(2285045)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://docs-emea.rs-online.com/webdocs/1382/0900766b813828ab.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "8.95mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "RS Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "228-5045"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED8(2285045)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://docs-emea.rs-online.com/webdocs/1382/0900766b813828ab.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "8.95mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "RS Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "228-5045"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R1(Resistor)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R2(Resistor)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R3(Resistor)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R4(Resistor)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R5(Resistor)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R6(Resistor)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R7(Resistor)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R8(Resistor)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Ra(Resistor)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Rb(Resistor)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Rc(Resistor)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Rd(Resistor)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Re(Resistor)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Rf(Resistor)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Rg(Resistor)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Seven Segment(5161AS-Seven-Segment)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=Neta_1 Pin=a-1
+Added Pin To Net: NetName=Neta_1 Pin=Ra-2
+Added Net: Name=Neta_1
+Added Pin To Net: NetName=NetAnode_1 Pin=Anode-1
+Added Pin To Net: NetName=NetAnode_1 Pin=Seven Segment-3
+Added Net: Name=NetAnode_1
+Added Pin To Net: NetName=Netb_1 Pin=b-1
+Added Pin To Net: NetName=Netb_1 Pin=Rb-2
+Added Net: Name=Netb_1
+Added Pin To Net: NetName=Netc_1 Pin=c-1
+Added Pin To Net: NetName=Netc_1 Pin=Rc-1
+Added Net: Name=Netc_1
+Added Pin To Net: NetName=NetCathode_1 Pin=Cathode-1
+Added Pin To Net: NetName=NetCathode_1 Pin=LED1-1
+Added Pin To Net: NetName=NetCathode_1 Pin=LED2-1
+Added Pin To Net: NetName=NetCathode_1 Pin=LED3-1
+Added Pin To Net: NetName=NetCathode_1 Pin=LED4-1
+Added Pin To Net: NetName=NetCathode_1 Pin=LED5-1
+Added Pin To Net: NetName=NetCathode_1 Pin=LED6-1
+Added Pin To Net: NetName=NetCathode_1 Pin=LED7-1
+Added Pin To Net: NetName=NetCathode_1 Pin=LED8-1
+Added Net: Name=NetCathode_1
+Added Pin To Net: NetName=Netd_1 Pin=d-1
+Added Pin To Net: NetName=Netd_1 Pin=Rd-1
+Added Net: Name=Netd_1
+Added Pin To Net: NetName=Nete_1 Pin=e-1
+Added Pin To Net: NetName=Nete_1 Pin=Re-1
+Added Net: Name=Nete_1
+Added Pin To Net: NetName=Netf_1 Pin=f-1
+Added Pin To Net: NetName=Netf_1 Pin=Rf-2
+Added Net: Name=Netf_1
+Added Pin To Net: NetName=Netg_1 Pin=g-1
+Added Pin To Net: NetName=Netg_1 Pin=Rg-2
+Added Net: Name=Netg_1
+Added Pin To Net: NetName=NetLD1_1 Pin=LD1-1
+Added Pin To Net: NetName=NetLD1_1 Pin=R1-2
+Added Net: Name=NetLD1_1
+Added Pin To Net: NetName=NetLD2_1 Pin=LD2-1
+Added Pin To Net: NetName=NetLD2_1 Pin=R2-2
+Added Net: Name=NetLD2_1
+Added Pin To Net: NetName=NetLD3_1 Pin=LD3-1
+Added Pin To Net: NetName=NetLD3_1 Pin=R3-2
+Added Net: Name=NetLD3_1
+Added Pin To Net: NetName=NetLD4_1 Pin=LD4-1
+Added Pin To Net: NetName=NetLD4_1 Pin=R4-2
+Added Net: Name=NetLD4_1
+Added Pin To Net: NetName=NetLD5_1 Pin=LD5-1
+Added Pin To Net: NetName=NetLD5_1 Pin=R5-2
+Added Net: Name=NetLD5_1
+Added Pin To Net: NetName=NetLD6_1 Pin=LD6-1
+Added Pin To Net: NetName=NetLD6_1 Pin=R6-2
+Added Net: Name=NetLD6_1
+Added Pin To Net: NetName=NetLD7_1 Pin=LD7-1
+Added Pin To Net: NetName=NetLD7_1 Pin=R7-2
+Added Net: Name=NetLD7_1
+Added Pin To Net: NetName=NetLD8_1 Pin=LD8-1
+Added Pin To Net: NetName=NetLD8_1 Pin=R8-2
+Added Net: Name=NetLD8_1
+Added Pin To Net: NetName=NetLED1_2 Pin=LED1-2
+Added Pin To Net: NetName=NetLED1_2 Pin=R1-1
+Added Net: Name=NetLED1_2
+Added Pin To Net: NetName=NetLED2_2 Pin=LED2-2
+Added Pin To Net: NetName=NetLED2_2 Pin=R2-1
+Added Net: Name=NetLED2_2
+Added Pin To Net: NetName=NetLED3_2 Pin=LED3-2
+Added Pin To Net: NetName=NetLED3_2 Pin=R3-1
+Added Net: Name=NetLED3_2
+Added Pin To Net: NetName=NetLED4_2 Pin=LED4-2
+Added Pin To Net: NetName=NetLED4_2 Pin=R4-1
+Added Net: Name=NetLED4_2
+Added Pin To Net: NetName=NetLED5_2 Pin=LED5-2
+Added Pin To Net: NetName=NetLED5_2 Pin=R5-1
+Added Net: Name=NetLED5_2
+Added Pin To Net: NetName=NetLED6_2 Pin=LED6-2
+Added Pin To Net: NetName=NetLED6_2 Pin=R6-1
+Added Net: Name=NetLED6_2
+Added Pin To Net: NetName=NetLED7_2 Pin=LED7-2
+Added Pin To Net: NetName=NetLED7_2 Pin=R7-1
+Added Net: Name=NetLED7_2
+Added Pin To Net: NetName=NetLED8_2 Pin=LED8-2
+Added Pin To Net: NetName=NetLED8_2 Pin=R8-1
+Added Net: Name=NetLED8_2
+Added Pin To Net: NetName=NetRa_1 Pin=Ra-1
+Added Pin To Net: NetName=NetRa_1 Pin=Seven Segment-7
+Added Net: Name=NetRa_1
+Added Pin To Net: NetName=NetRb_1 Pin=Rb-1
+Added Pin To Net: NetName=NetRb_1 Pin=Seven Segment-6
+Added Net: Name=NetRb_1
+Added Pin To Net: NetName=NetRc_2 Pin=Rc-2
+Added Pin To Net: NetName=NetRc_2 Pin=Seven Segment-4
+Added Net: Name=NetRc_2
+Added Pin To Net: NetName=NetRd_2 Pin=Rd-2
+Added Pin To Net: NetName=NetRd_2 Pin=Seven Segment-2
+Added Net: Name=NetRd_2
+Added Pin To Net: NetName=NetRe_2 Pin=Re-2
+Added Pin To Net: NetName=NetRe_2 Pin=Seven Segment-1
+Added Net: Name=NetRe_2
+Added Pin To Net: NetName=NetRf_1 Pin=Rf-1
+Added Pin To Net: NetName=NetRf_1 Pin=Seven Segment-9
+Added Net: Name=NetRf_1
+Added Pin To Net: NetName=NetRg_1 Pin=Rg-1
+Added Pin To Net: NetName=NetRg_1 Pin=Seven Segment-10
+Added Net: Name=NetRg_1
+Added Class: Name=Skema Seven Segment
