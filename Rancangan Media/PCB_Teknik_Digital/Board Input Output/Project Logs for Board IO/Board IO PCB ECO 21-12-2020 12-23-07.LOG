@@ -1,0 +1,141 @@
+Added Component: Designator=J1(SHDRRA26W62P254_2X13_4023X957X920P)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "75867-105LF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/75867-105lf/amphenol-fci"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/75867.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "9.2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Amphenol"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "75867-105LF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "649-75867-105LF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=649-75867-105LF"; VariantName = "[No Variations]"
+Added Component: Designator=J2(F_Banana)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J3(F_Banana)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J4(F_Banana)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J5(F_Banana)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J6(F_Banana)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J7(F_Banana)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J8(F_Banana)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J9(F_Banana)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J10(F_Banana)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J11(F_Banana)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J12(F_Banana)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J13(F_Banana)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J14(F_Banana)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J15(F_Banana)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J16(F_Banana)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J17(F_Banana)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J18(F_Banana)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J19(F_Banana)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J20(F_Banana)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J21(F_Banana)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J22(F_Banana)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J23(F_Banana)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J24(F_Banana)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J25(F_Banana)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J26(F_Banana)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J27(F_Banana)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetJ1_1 Pin=J1-1
+Added Pin To Net: NetName=NetJ1_1 Pin=J2-1
+Added Net: Name=NetJ1_1
+Added Pin To Net: NetName=NetJ1_2 Pin=J1-2
+Added Pin To Net: NetName=NetJ1_2 Pin=J15-1
+Added Net: Name=NetJ1_2
+Added Pin To Net: NetName=NetJ1_3 Pin=J1-3
+Added Pin To Net: NetName=NetJ1_3 Pin=J3-1
+Added Net: Name=NetJ1_3
+Added Pin To Net: NetName=NetJ1_4 Pin=J1-4
+Added Pin To Net: NetName=NetJ1_4 Pin=J16-1
+Added Net: Name=NetJ1_4
+Added Pin To Net: NetName=NetJ1_5 Pin=J1-5
+Added Pin To Net: NetName=NetJ1_5 Pin=J4-1
+Added Net: Name=NetJ1_5
+Added Pin To Net: NetName=NetJ1_6 Pin=J1-6
+Added Pin To Net: NetName=NetJ1_6 Pin=J17-1
+Added Net: Name=NetJ1_6
+Added Pin To Net: NetName=NetJ1_7 Pin=J1-7
+Added Pin To Net: NetName=NetJ1_7 Pin=J5-1
+Added Net: Name=NetJ1_7
+Added Pin To Net: NetName=NetJ1_8 Pin=J1-8
+Added Pin To Net: NetName=NetJ1_8 Pin=J18-1
+Added Net: Name=NetJ1_8
+Added Pin To Net: NetName=NetJ1_9 Pin=J1-9
+Added Pin To Net: NetName=NetJ1_9 Pin=J6-1
+Added Net: Name=NetJ1_9
+Added Pin To Net: NetName=NetJ1_10 Pin=J1-10
+Added Pin To Net: NetName=NetJ1_10 Pin=J19-1
+Added Net: Name=NetJ1_10
+Added Pin To Net: NetName=NetJ1_11 Pin=J1-11
+Added Pin To Net: NetName=NetJ1_11 Pin=J7-1
+Added Net: Name=NetJ1_11
+Added Pin To Net: NetName=NetJ1_12 Pin=J1-12
+Added Pin To Net: NetName=NetJ1_12 Pin=J20-1
+Added Net: Name=NetJ1_12
+Added Pin To Net: NetName=NetJ1_13 Pin=J1-13
+Added Pin To Net: NetName=NetJ1_13 Pin=J8-1
+Added Net: Name=NetJ1_13
+Added Pin To Net: NetName=NetJ1_14 Pin=J1-14
+Added Pin To Net: NetName=NetJ1_14 Pin=J21-1
+Added Net: Name=NetJ1_14
+Added Pin To Net: NetName=NetJ1_15 Pin=J1-15
+Added Pin To Net: NetName=NetJ1_15 Pin=J9-1
+Added Net: Name=NetJ1_15
+Added Pin To Net: NetName=NetJ1_16 Pin=J1-16
+Added Pin To Net: NetName=NetJ1_16 Pin=J22-1
+Added Net: Name=NetJ1_16
+Added Pin To Net: NetName=NetJ1_17 Pin=J1-17
+Added Pin To Net: NetName=NetJ1_17 Pin=J10-1
+Added Net: Name=NetJ1_17
+Added Pin To Net: NetName=NetJ1_18 Pin=J1-18
+Added Pin To Net: NetName=NetJ1_18 Pin=J23-1
+Added Net: Name=NetJ1_18
+Added Pin To Net: NetName=NetJ1_19 Pin=J1-19
+Added Pin To Net: NetName=NetJ1_19 Pin=J11-1
+Added Net: Name=NetJ1_19
+Added Pin To Net: NetName=NetJ1_20 Pin=J1-20
+Added Pin To Net: NetName=NetJ1_20 Pin=J24-1
+Added Net: Name=NetJ1_20
+Added Pin To Net: NetName=NetJ1_21 Pin=J1-21
+Added Pin To Net: NetName=NetJ1_21 Pin=J12-1
+Added Net: Name=NetJ1_21
+Added Pin To Net: NetName=NetJ1_22 Pin=J1-22
+Added Pin To Net: NetName=NetJ1_22 Pin=J25-1
+Added Net: Name=NetJ1_22
+Added Pin To Net: NetName=NetJ1_23 Pin=J1-23
+Added Pin To Net: NetName=NetJ1_23 Pin=J13-1
+Added Net: Name=NetJ1_23
+Added Pin To Net: NetName=NetJ1_24 Pin=J1-24
+Added Pin To Net: NetName=NetJ1_24 Pin=J26-1
+Added Net: Name=NetJ1_24
+Added Pin To Net: NetName=NetJ1_25 Pin=J1-25
+Added Pin To Net: NetName=NetJ1_25 Pin=J14-1
+Added Net: Name=NetJ1_25
+Added Pin To Net: NetName=NetJ1_26 Pin=J1-26
+Added Pin To Net: NetName=NetJ1_26 Pin=J27-1
+Added Net: Name=NetJ1_26
+Added Class: Name=Skema IO
