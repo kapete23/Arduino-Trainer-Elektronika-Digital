@@ -1,0 +1,205 @@
+Added Component: Designator=A1(F_Banana)
+Add component. Clean all parameters for all variants
+Added Component: Designator=A2(F_Banana)
+Add component. Clean all parameters for all variants
+Added Component: Designator=A3(F_Banana)
+Add component. Clean all parameters for all variants
+Added Component: Designator=A4(F_Banana)
+Add component. Clean all parameters for all variants
+Added Component: Designator=A5(F_Banana)
+Add component. Clean all parameters for all variants
+Added Component: Designator=A6(F_Banana)
+Add component. Clean all parameters for all variants
+Added Component: Designator=A7(F_Banana)
+Add component. Clean all parameters for all variants
+Added Component: Designator=A8(F_Banana)
+Add component. Clean all parameters for all variants
+Added Component: Designator=A9(F_Banana)
+Add component. Clean all parameters for all variants
+Added Component: Designator=A10(F_Banana)
+Add component. Clean all parameters for all variants
+Added Component: Designator=A11(F_Banana)
+Add component. Clean all parameters for all variants
+Added Component: Designator=A12(F_Banana)
+Add component. Clean all parameters for all variants
+Added Component: Designator=A13(F_Banana)
+Add component. Clean all parameters for all variants
+Added Component: Designator=A14(F_Banana)
+Add component. Clean all parameters for all variants
+Added Component: Designator=A15(F_Banana)
+Add component. Clean all parameters for all variants
+Added Component: Designator=A16(F_Banana)
+Add component. Clean all parameters for all variants
+Added Component: Designator=A17(F_Banana)
+Add component. Clean all parameters for all variants
+Added Component: Designator=A18(F_Banana)
+Add component. Clean all parameters for all variants
+Added Component: Designator=A19(F_Banana)
+Add component. Clean all parameters for all variants
+Added Component: Designator=A20(F_Banana)
+Add component. Clean all parameters for all variants
+Added Component: Designator=A(3M_0_0)
+Add component. Clean all parameters for all variants
+Added Component: Designator=B1(F_Banana)
+Add component. Clean all parameters for all variants
+Added Component: Designator=B2(F_Banana)
+Add component. Clean all parameters for all variants
+Added Component: Designator=B3(F_Banana)
+Add component. Clean all parameters for all variants
+Added Component: Designator=B4(F_Banana)
+Add component. Clean all parameters for all variants
+Added Component: Designator=B5(F_Banana)
+Add component. Clean all parameters for all variants
+Added Component: Designator=B6(F_Banana)
+Add component. Clean all parameters for all variants
+Added Component: Designator=B7(F_Banana)
+Add component. Clean all parameters for all variants
+Added Component: Designator=B8(F_Banana)
+Add component. Clean all parameters for all variants
+Added Component: Designator=B9(F_Banana)
+Add component. Clean all parameters for all variants
+Added Component: Designator=B10(F_Banana)
+Add component. Clean all parameters for all variants
+Added Component: Designator=B11(F_Banana)
+Add component. Clean all parameters for all variants
+Added Component: Designator=B12(F_Banana)
+Add component. Clean all parameters for all variants
+Added Component: Designator=B13(F_Banana)
+Add component. Clean all parameters for all variants
+Added Component: Designator=B14(F_Banana)
+Add component. Clean all parameters for all variants
+Added Component: Designator=B15(F_Banana)
+Add component. Clean all parameters for all variants
+Added Component: Designator=B16(F_Banana)
+Add component. Clean all parameters for all variants
+Added Component: Designator=B17(F_Banana)
+Add component. Clean all parameters for all variants
+Added Component: Designator=B18(F_Banana)
+Add component. Clean all parameters for all variants
+Added Component: Designator=B19(F_Banana)
+Add component. Clean all parameters for all variants
+Added Component: Designator=B20(F_Banana)
+Add component. Clean all parameters for all variants
+Added Component: Designator=B(3M_0_0)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetA1_1 Pin=A1-1
+Added Pin To Net: NetName=NetA1_1 Pin=A-1
+Added Net: Name=NetA1_1
+Added Pin To Net: NetName=NetA2_1 Pin=A2-1
+Added Pin To Net: NetName=NetA2_1 Pin=A-2
+Added Net: Name=NetA2_1
+Added Pin To Net: NetName=NetA3_1 Pin=A3-1
+Added Pin To Net: NetName=NetA3_1 Pin=A-3
+Added Net: Name=NetA3_1
+Added Pin To Net: NetName=NetA4_1 Pin=A4-1
+Added Pin To Net: NetName=NetA4_1 Pin=A-4
+Added Net: Name=NetA4_1
+Added Pin To Net: NetName=NetA5_1 Pin=A5-1
+Added Pin To Net: NetName=NetA5_1 Pin=A-5
+Added Net: Name=NetA5_1
+Added Pin To Net: NetName=NetA6_1 Pin=A6-1
+Added Pin To Net: NetName=NetA6_1 Pin=A-6
+Added Net: Name=NetA6_1
+Added Pin To Net: NetName=NetA7_1 Pin=A7-1
+Added Pin To Net: NetName=NetA7_1 Pin=A-7
+Added Net: Name=NetA7_1
+Added Pin To Net: NetName=NetA8_1 Pin=A8-1
+Added Pin To Net: NetName=NetA8_1 Pin=A-8
+Added Net: Name=NetA8_1
+Added Pin To Net: NetName=NetA9_1 Pin=A9-1
+Added Pin To Net: NetName=NetA9_1 Pin=A-9
+Added Net: Name=NetA9_1
+Added Pin To Net: NetName=NetA10_1 Pin=A10-1
+Added Pin To Net: NetName=NetA10_1 Pin=A-10
+Added Net: Name=NetA10_1
+Added Pin To Net: NetName=NetA11_1 Pin=A11-1
+Added Pin To Net: NetName=NetA11_1 Pin=A-11
+Added Net: Name=NetA11_1
+Added Pin To Net: NetName=NetA12_1 Pin=A12-1
+Added Pin To Net: NetName=NetA12_1 Pin=A-12
+Added Net: Name=NetA12_1
+Added Pin To Net: NetName=NetA13_1 Pin=A13-1
+Added Pin To Net: NetName=NetA13_1 Pin=A-13
+Added Net: Name=NetA13_1
+Added Pin To Net: NetName=NetA14_1 Pin=A14-1
+Added Pin To Net: NetName=NetA14_1 Pin=A-14
+Added Net: Name=NetA14_1
+Added Pin To Net: NetName=NetA15_1 Pin=A15-1
+Added Pin To Net: NetName=NetA15_1 Pin=A-15
+Added Net: Name=NetA15_1
+Added Pin To Net: NetName=NetA16_1 Pin=A16-1
+Added Pin To Net: NetName=NetA16_1 Pin=A-16
+Added Net: Name=NetA16_1
+Added Pin To Net: NetName=NetA17_1 Pin=A17-1
+Added Pin To Net: NetName=NetA17_1 Pin=A-17
+Added Net: Name=NetA17_1
+Added Pin To Net: NetName=NetA18_1 Pin=A18-1
+Added Pin To Net: NetName=NetA18_1 Pin=A-18
+Added Net: Name=NetA18_1
+Added Pin To Net: NetName=NetA19_1 Pin=A19-1
+Added Pin To Net: NetName=NetA19_1 Pin=A-19
+Added Net: Name=NetA19_1
+Added Pin To Net: NetName=NetA20_1 Pin=A20-1
+Added Pin To Net: NetName=NetA20_1 Pin=A-20
+Added Net: Name=NetA20_1
+Added Pin To Net: NetName=NetB1_1 Pin=B1-1
+Added Pin To Net: NetName=NetB1_1 Pin=B-1
+Added Net: Name=NetB1_1
+Added Pin To Net: NetName=NetB2_1 Pin=B2-1
+Added Pin To Net: NetName=NetB2_1 Pin=B-2
+Added Net: Name=NetB2_1
+Added Pin To Net: NetName=NetB3_1 Pin=B3-1
+Added Pin To Net: NetName=NetB3_1 Pin=B-3
+Added Net: Name=NetB3_1
+Added Pin To Net: NetName=NetB4_1 Pin=B4-1
+Added Pin To Net: NetName=NetB4_1 Pin=B-4
+Added Net: Name=NetB4_1
+Added Pin To Net: NetName=NetB5_1 Pin=B5-1
+Added Pin To Net: NetName=NetB5_1 Pin=B-5
+Added Net: Name=NetB5_1
+Added Pin To Net: NetName=NetB6_1 Pin=B6-1
+Added Pin To Net: NetName=NetB6_1 Pin=B-6
+Added Net: Name=NetB6_1
+Added Pin To Net: NetName=NetB7_1 Pin=B7-1
+Added Pin To Net: NetName=NetB7_1 Pin=B-7
+Added Net: Name=NetB7_1
+Added Pin To Net: NetName=NetB8_1 Pin=B8-1
+Added Pin To Net: NetName=NetB8_1 Pin=B-8
+Added Net: Name=NetB8_1
+Added Pin To Net: NetName=NetB9_1 Pin=B9-1
+Added Pin To Net: NetName=NetB9_1 Pin=B-9
+Added Net: Name=NetB9_1
+Added Pin To Net: NetName=NetB10_1 Pin=B10-1
+Added Pin To Net: NetName=NetB10_1 Pin=B-10
+Added Net: Name=NetB10_1
+Added Pin To Net: NetName=NetB11_1 Pin=B11-1
+Added Pin To Net: NetName=NetB11_1 Pin=B-11
+Added Net: Name=NetB11_1
+Added Pin To Net: NetName=NetB12_1 Pin=B12-1
+Added Pin To Net: NetName=NetB12_1 Pin=B-12
+Added Net: Name=NetB12_1
+Added Pin To Net: NetName=NetB13_1 Pin=B13-1
+Added Pin To Net: NetName=NetB13_1 Pin=B-13
+Added Net: Name=NetB13_1
+Added Pin To Net: NetName=NetB14_1 Pin=B14-1
+Added Pin To Net: NetName=NetB14_1 Pin=B-14
+Added Net: Name=NetB14_1
+Added Pin To Net: NetName=NetB15_1 Pin=B15-1
+Added Pin To Net: NetName=NetB15_1 Pin=B-15
+Added Net: Name=NetB15_1
+Added Pin To Net: NetName=NetB16_1 Pin=B16-1
+Added Pin To Net: NetName=NetB16_1 Pin=B-16
+Added Net: Name=NetB16_1
+Added Pin To Net: NetName=NetB17_1 Pin=B17-1
+Added Pin To Net: NetName=NetB17_1 Pin=B-17
+Added Net: Name=NetB17_1
+Added Pin To Net: NetName=NetB18_1 Pin=B18-1
+Added Pin To Net: NetName=NetB18_1 Pin=B-18
+Added Net: Name=NetB18_1
+Added Pin To Net: NetName=NetB19_1 Pin=B19-1
+Added Pin To Net: NetName=NetB19_1 Pin=B-19
+Added Net: Name=NetB19_1
+Added Pin To Net: NetName=NetB20_1 Pin=B20-1
+Added Pin To Net: NetName=NetB20_1 Pin=B-20
+Added Net: Name=NetB20_1
+Added Class: Name=Skema Board ZIP Socket
